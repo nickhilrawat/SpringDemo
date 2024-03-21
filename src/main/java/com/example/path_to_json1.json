@@ -1,0 +1,9 @@
+{
+  "name" : "jatin",
+  "myList" : [
+    {
+      "innerName": "inner name",
+      "innerAddress": "innerAddress"
+    }
+  ]
+}
